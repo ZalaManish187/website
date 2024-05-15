@@ -612,6 +612,111 @@
       width:85%;
       box-sizing: border-box;
     }
+       .container {
+    width: 100%;
+    height: auto;
+  }
+
+  .center-9 {
+    width: 100%;
+    aspect-ratio: 3/2;
+    object-fit: cover;
+    box-sizing: border-box;
+    border-radius: 2px;
+  }
+
+  .center-10 {
+    width: 100%;
+    aspect-ratio: 3/2;
+    object-fit: cover;
+    box-sizing: border-box;
+    border-radius: 2px;
+  }
+
+  .center-11 {
+    width: 100%;
+    aspect-ratio: 3/2;
+    object-fit: cover;
+    box-sizing: border-box;
+    border-radius: 2px;
+  }
+
+  .center-12 {
+    width: 100%;
+    aspect-ratio: 3/2;
+    object-fit: cover;
+    box-sizing: border-box;
+    border-radius: 2px;
+  }
+
+  .center-13 {
+    width: 100%;
+    aspect-ratio: 3/2;
+    object-fit: cover;
+    box-sizing: border-box;
+    border-radius: 2px;
+  }
+
+  .center-14 {
+    width: 100%;
+    aspect-ratio: 3/2;
+    object-fit: cover;
+    box-sizing: border-box;
+    border-radius: 2px;
+  }
+
+  .center-15 {
+    width: 100%;
+    aspect-ratio: 3/2;
+    object-fit: cover;
+    box-sizing: border-box;
+    border-radius: 2px;
+  }
+
+  .center-16 {
+    width: 100%;
+    aspect-ratio: 3/2;
+    object-fit: cover;
+    box-sizing: border-box;
+    border-radius: 2px;
+  }
+
+  .center-17 {
+    width: 100%;
+    aspect-ratio: 3/2;
+    object-fit: cover;
+    box-sizing: border-box;
+    border-radius: 2px;
+  }
+
+  .center-18 {
+    width: 100%;
+    aspect-ratio: 3/2;
+    object-fit: cover;
+    box-sizing: border-box;
+    border-radius: 2px;
+  }
+
+  .center-19 {
+    width: 100%;
+    aspect-ratio: 3/2;
+    object-fit: cover;
+    box-sizing: border-box;
+    border-radius: 2px;
+  }
+
+  .center-20 {
+    width: 100%;
+    aspect-ratio: 3/2;
+    object-fit: cover;
+    box-sizing: border-box;
+    border-radius: 2px;
+  }
+
+  .card-1 {
+    width: 85%;
+  }
+
    
     .center-21{
       width:85%;
