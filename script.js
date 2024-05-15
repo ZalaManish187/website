@@ -6,10 +6,10 @@ let scrollContainer = document.querySelector(".image-list");
 
     preBtn.addEventListener("click", () => {
       scrollContainer.style.scrollBehavior = "smooth";
-      scrollContainer.scrollLeft += 900;
+      scrollContainer.scrollLeft += 100;
     });
 
     nextBtn.addEventListener("click", () => {
       scrollContainer.style.scrollBehavior = "smooth";
-      scrollContainer.scrollLeft -= 900;
+      scrollContainer.scrollLeft -= 100;
     });
