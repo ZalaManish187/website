@@ -583,34 +583,50 @@
       .center-1{
       width:85%;
       box-sizing: border-box;
+    border-radius: 5px;
+
     }
     .center-2{
       width:85%;
       box-sizing: border-box;
+            border-radius: 5px;
+
     }
     .center-3{
       width:85%;
       box-sizing: border-box;
+            border-radius: 5px;
+
     }
     .center-4{
       width:85%;
       box-sizing: border-box;
+            border-radius: 5px;
+
     }
     .center-5{
       width:85%;
       box-sizing: border-box;
+            border-radius: 5px;
+
     }
     .center-6{
       width:85%;
       box-sizing: border-box;
+            border-radius: 5px;
+
     }
     .center-7{
       width:85%;
       box-sizing: border-box;
+            border-radius: 5px;
+
     }
     .center-8{
       width:85%;
       box-sizing: border-box;
+            border-radius: 5px;
+
     }
        .container {
     width: 100%;
@@ -622,7 +638,7 @@
     aspect-ratio: 3/2;
     object-fit: cover;
     box-sizing: border-box;
-    border-radius: 2px;
+    border-radius: 5px;
   }
 
   .center-10 {
@@ -630,7 +646,7 @@
     aspect-ratio: 3/2;
     object-fit: cover;
     box-sizing: border-box;
-    border-radius: 2px;
+    border-radius: 5px;
   }
 
   .center-11 {
@@ -638,7 +654,7 @@
     aspect-ratio: 3/2;
     object-fit: cover;
     box-sizing: border-box;
-    border-radius: 2px;
+    border-radius: 5px;
   }
 
   .center-12 {
@@ -646,7 +662,7 @@
     aspect-ratio: 3/2;
     object-fit: cover;
     box-sizing: border-box;
-    border-radius: 2px;
+    border-radius: 5px;
   }
 
   .center-13 {
@@ -654,7 +670,7 @@
     aspect-ratio: 3/2;
     object-fit: cover;
     box-sizing: border-box;
-    border-radius: 2px;
+    border-radius: 5px;
   }
 
   .center-14 {
@@ -662,7 +678,7 @@
     aspect-ratio: 3/2;
     object-fit: cover;
     box-sizing: border-box;
-    border-radius: 2px;
+    border-radius: 5px;
   }
 
   .center-15 {
@@ -670,7 +686,7 @@
     aspect-ratio: 3/2;
     object-fit: cover;
     box-sizing: border-box;
-    border-radius: 2px;
+    border-radius: 5px;
   }
 
   .center-16 {
@@ -678,7 +694,7 @@
     aspect-ratio: 3/2;
     object-fit: cover;
     box-sizing: border-box;
-    border-radius: 2px;
+    border-radius: 5px;
   }
 
   .center-17 {
@@ -686,7 +702,7 @@
     aspect-ratio: 3/2;
     object-fit: cover;
     box-sizing: border-box;
-    border-radius: 2px;
+    border-radius: 5px;
   }
 
   .center-18 {
@@ -694,7 +710,7 @@
     aspect-ratio: 3/2;
     object-fit: cover;
     box-sizing: border-box;
-    border-radius: 2px;
+    border-radius: 5px;
   }
 
   .center-19 {
@@ -702,7 +718,7 @@
     aspect-ratio: 3/2;
     object-fit: cover;
     box-sizing: border-box;
-    border-radius: 2px;
+    border-radius: 5px;
   }
 
   .center-20 {
@@ -710,7 +726,7 @@
     aspect-ratio: 3/2;
     object-fit: cover;
     box-sizing: border-box;
-    border-radius: 2px;
+    border-radius: 5px;
   }
 
   .card-1 {
@@ -721,18 +737,26 @@
     .center-21{
       width:85%;
       box-sizing: border-box;
+            border-radius: 5px;
+
     }
     .center-22{
       width:85%;
       box-sizing: border-box;
+            border-radius: 5px;
+
     }
     .center-23{
       width:85%;
       box-sizing: border-box;
+            border-radius: 5px;
+
     }
     .center-24{
       width:85%;
       box-sizing: border-box;
+            border-radius: 5px;
+
     }
       
   }
